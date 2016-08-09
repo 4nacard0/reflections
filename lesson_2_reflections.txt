@@ -13,6 +13,7 @@ organized? How would branches help?
 When I want to experiment new changes I'm not very sure about it.
 
 How do the diagrams help you visualize the branch structure?
+Diagrams let you see what commits are made in each branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
