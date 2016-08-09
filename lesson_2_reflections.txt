@@ -21,3 +21,4 @@ The merging occurs on the checkedout branch and a new commit is created.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Automatic is more confortable but manually is safer, only you know what you want to keep in a merge.
