@@ -17,6 +17,7 @@ Diagrams let you see what commits are made in each branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The merging occurs on the checkedout branch and a new commit is created.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
